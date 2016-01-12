@@ -1,4 +1,4 @@
-## This is the readme file for kvm-book.git in Jay's git repo hosted on github.com
+## README file for Jay's kvm-book.git repository.
 [https://github.com/smilejay/kvm-book.git](https://github.com/smilejay/kvm-book.git)
 
 git://github.com/smilejay/kvm-book.git
